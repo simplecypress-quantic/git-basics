@@ -6,3 +6,5 @@ body {
 h1 { color: coral; }
 
 p { color: navy; }
+
+.feature-highlight { font-weight: bold; }
